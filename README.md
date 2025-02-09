@@ -75,4 +75,4 @@ pyinstaller --onefile --windowed --noconsole \
 ## 📚 Documentation
 
 Find complete technical specifications and workflow diagrams here:  
-**[EXTRACTOR Documentation](https://yoshq.notion.site/EXTRACTOR-af2258a285cd4313a1a4d609aa5b6d40?pvs=4)**
+**[EXTRACTOR Documentation](https://bit.ly/4huj98X)**
